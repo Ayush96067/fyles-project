@@ -1,5 +1,4 @@
 // import "./script.js";
-import React, { useState } from "react";
 
 function App() {
   return (
