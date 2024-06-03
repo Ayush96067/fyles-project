@@ -1,4 +1,4 @@
-// import "./script.js";
+import "./script.js";
 
 function App() {
   return (
